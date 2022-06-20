@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactSopping/static/css/main.c9e55c20.css",
+    "main.js": "/reactSopping/static/js/main.9c6a5b1c.js",
+    "index.html": "/reactSopping/index.html",
+    "main.c9e55c20.css.map": "/reactSopping/static/css/main.c9e55c20.css.map",
+    "main.9c6a5b1c.js.map": "/reactSopping/static/js/main.9c6a5b1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9e55c20.css",
+    "static/js/main.9c6a5b1c.js"
+  ]
+}
